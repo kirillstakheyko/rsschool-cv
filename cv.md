@@ -16,3 +16,5 @@ return Number.parseInt(Math.abs(number).toString().split('')
 ```
 
 I was a student at BSUIR.
+
+ A2+ English level.
